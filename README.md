@@ -1,4 +1,4 @@
-# Webpacker Angular Component Styles Bug
+# Webpacker Angular Component HTML/Styles
 
 This is an example app showing how to set up your Rails app with webpacker and Angular using imported HTML and SCSS for each component.
 
