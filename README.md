@@ -11,7 +11,7 @@ This is an example app showing how to set up your Rails app with webpacker and A
 * Add `root 'example#index'` to routes.rb
 * In `application.html.erb` change the `javascript_pack_tag` to `hello_angular`
 * If you get compile-time errors from ActionCable, delete application JS pack and associated files
-* In `package.json` change `core-js`'s version to `2.5.7`. There is some incompatibility with version 3 of `core-js` and the `polyfill.ts` that webpacker generates. (https://stackoverflow.com/questions/55308769/module-not-found-error-cant-resolve-core-js-es6)[More info here]
+* In `package.json` change `core-js`'s version to `2.5.7`. There is some incompatibility with version 3 of `core-js` and the `polyfill.ts` that webpacker generates. [More info here](https://stackoverflow.com/questions/55308769/module-not-found-error-cant-resolve-core-js-es6)
 * `rails s`
 
 ## Importing component HTML
