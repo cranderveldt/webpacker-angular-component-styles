@@ -1,0 +1,28 @@
+{
+  "name": "webpacker_angular_component_styles",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^8.2.6",
+    "@angular/compiler": "^8.2.6",
+    "@angular/core": "^8.2.6",
+    "@angular/platform-browser": "^8.2.6",
+    "@angular/platform-browser-dynamic": "^8.2.6",
+    "@rails/webpacker": "^4.0.7",
+    "core-js": "2.5.7",
+    "css-loader": "^3.2.0",
+    "html-loader": "^0.5.5",
+    "postcss-loader": "^3.0.0",
+    "resolve-url-loader": "^3.1.0",
+    "rxjs": "^6.5.3",
+    "sass-loader": "^8.0.0",
+    "to-string-loader": "^1.1.5",
+    "ts-loader": "^6.1.0",
+    "turbolinks": "^5.2.0",
+    "typescript": "^3.6.3",
+    "zone.js": "^0.10.2"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.8.1"
+  }
+}
